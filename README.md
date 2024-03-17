@@ -1,6 +1,6 @@
-# Walmart Sales Analysis
+# Walmart Sales Analysis 📊
 
-📊🛒 Dive into Walmart's sales data analysis using MySQL, including visualization and insights.
+🛒 Dive into Walmart's sales data analysis using MySQL, including visualization and insights.
 
 ## Introduction
 
